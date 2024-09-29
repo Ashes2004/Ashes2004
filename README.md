@@ -39,6 +39,8 @@
 
 ### 🚀 Projects:
 
+
+- **Mr. Chatur**: A website that provides all kind of study materials for MAKAUT engineering students .
 - **myClass**: A smart classroom management system for interactive dashboards, student-teacher communication, and admin tools. Built with the MERN stack.
 - **EduGoal**: Developed a responsive mobile app using React Native for Android, focusing on youtube distraction.
 - Many more.....
