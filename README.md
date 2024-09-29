@@ -18,7 +18,7 @@
 
 ### 🛠️ Technologies & Tools:
 
-- **Frontend**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI
+- **Frontend**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI , Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Mobile Development**: React Native (Android)
 - **Databases**: MongoDB, Mongoose
