@@ -21,10 +21,10 @@
 - **Frontend**: React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI , Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Mobile Development**: React Native (Android)
-- **Databases**: MongoDB, Mongoose
+- **Databases**: MongoDB, Firebase 
 - **Version Control**: Git, GitHub
 - **Languages**: C++, JavaScript, C
-- **Tools & Platforms**: VS Code, Postman, Firebase
+- **Tools & Platforms**: VS Code, Postman, Firebase , Cloudinary 
 
 ---
 
