@@ -32,8 +32,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashes2004&show_icons=true&hide_border=true&theme=radical" alt="Ashes2004 GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes2004&hide=html&layout=compact&theme=radical" alt="Top Languages"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes2004&hide=html&layout=compact&theme=radical" alt="Top Languages"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashes2004&theme=radical" alt="Total Contributions"/>
 </p>
 
