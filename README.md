@@ -32,8 +32,24 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes2004&hide=html&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes2004&hide=html&layout=compact&theme=radical" alt="Top Languages"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashes2004&theme=radical" alt="Total Contributions"/>
+</p>
+
+---
+
+### 🔥 GitHub Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashes2004&theme=react-dark&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+### 🎨 3D Contribution Graph:
+
+<p align="center">
+  <img src="https://github.com/Ashes2004/Ashes2004/blob/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph">
 </p>
 
 ---
