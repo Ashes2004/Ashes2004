@@ -53,8 +53,8 @@
   <a href="https://github.com/Ashes2004">
     <img src="https://img.shields.io/badge/GitHub-Ashes2004-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://mrchatur.com/">
-    <img src="https://img.shields.io/badge/Website-Mr.%20Chatur-blue?style=for-the-badge&logo=google-chrome" alt="Website">
+  <a href="https://mrashesdas.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Mr.%20Ashes-blue?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
 </p>
 
