@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hi, I'm <b>Ashes Das</b></h2>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashes2004&label=Profile%20views&color=0e75b6&style=flat" alt="Ashes2004" />
 </p>
@@ -8,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 
-- 💻 I am a **Full Stack Developer** with expertise in the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 💻 I am a **Full Stack Developer**  with expertise in the **MERN Stack** (MongoDB, Express, React, Node.js).
 - 🔧 Strong background in **Data Structures and Algorithms (DSA)** and **C++** programming.
 - 📱 Skilled in **React Native** for **Android development**, delivering responsive mobile applications.
 - 🌱 Constantly learning and exploring the latest technologies in web and mobile development.
