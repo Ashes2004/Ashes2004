@@ -44,6 +44,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zephyrus2822&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
 ### 🚀 Projects:
 
 - **Mr. Chatur**: A website that provides all kinds of study materials for MAKAUT engineering students.
