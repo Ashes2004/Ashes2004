@@ -13,7 +13,7 @@
 - 🔧 Strong background in **Data Structures and Algorithms (DSA)** and **C++** programming.
 - 📱 Skilled in **React Native** for **Android development**, delivering responsive mobile applications.
 - 🌱 Constantly learning and exploring the latest technologies in web and mobile development.
-- 📫 Check out my personal website: <b>[My Portfolio](https://mrashesdas.vercel.app/)</b>
+- 📫 Check out my personal website: <b>[My Portfolio](https://ashesdas.me/)</b>
 
 ---
 
