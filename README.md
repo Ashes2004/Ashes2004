@@ -104,6 +104,9 @@
   <a href="https://codeforces.com/profile/mr_ashes_2004">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
+  <a href="https://codolio.com/profile/Ashes2004">
+    <img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
+  </a>
 </p>
 
 ### 📈 LeetCode Performance
@@ -122,16 +125,18 @@
 </div>
 
 
-
 ### 📊 Comprehensive Coding Statistics
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=Ashes_2004&theme=dark" alt="Advanced LeetCode Stats"/>
+        <img src="https://cp-logo.vercel.app/leetcode/Ashes_2004" alt="LeetCode Rating"/>
       </td>
       <td align="center">
-        <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mr_ashes_2004&theme=dark" alt="Codeforces Badge"/>
+        <img src="https://cp-logo.vercel.app/codeforces/mr_ashes_2004" alt="Codeforces Rating"/>
+      </td>
+      <td align="center">
+        <img src="https://cp-logo.vercel.app/codechef/dasashes04" alt="CodeChef Rating"/>
       </td>
     </tr>
   </table>
@@ -160,7 +165,7 @@
 
 
 
----
+
 
 ## 🚀 Featured Projects
 
