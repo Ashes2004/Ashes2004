@@ -104,7 +104,7 @@
   <a href="https://codeforces.com/profile/mr_ashes_2004">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://codolio.com/profile/Ashes2004">
+  <a href="https://codolio.com/profile/mr_ashes_2004">
     <img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
   </a>
 </p>
