@@ -86,7 +86,7 @@
 
 ---
 
-## 📊 Coding Profiles & Stats
+## 📊 Coding Profiles & Comprehensive Stats
 
 <div align="center">
 
@@ -95,18 +95,49 @@
   <a href="https://leetcode.com/Ashes_2004">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
+  <a href="https://www.geeksforgeeks.org/user/dasashhypi">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
   <a href="https://www.codechef.com/users/dasashes04">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://codeforces.com/profile/mr_ashes_2004">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
- 
 </p>
 
-### 📈 LeetCode Stats
+### 📈 LeetCode Performance
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Ashes_2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+### 💚 GeeksforGeeks Stats
+<div align="center">
+  <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=dasashhypi&theme=dark" alt="GFG Stats"/>
+</div>
+
+### 🔥 Codeforces Analytics
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mr_ashes_2004&theme=dark&force_username=true&border=true" alt="Codeforces Stats"/>
+</div>
+
+### 🍳 CodeChef Progress
+<div align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api/heatmap?username=dasashes04&theme=dark" alt="CodeChef Stats"/>
+</div>
+
+### 📊 Comprehensive Coding Statistics
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://leetcode-stats-six.vercel.app/api?username=Ashes_2004&theme=dark" alt="Advanced LeetCode Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=mr_ashes_2004&theme=dark" alt="Codeforces Badge"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 📊 GitHub Analytics
@@ -130,6 +161,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ashes2004&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
+### 🎯 Competitive Programming Achievements
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=500%2B+Problems+Solved+Across+Platforms;LeetCode+Knight+%7C+GFG+Problem+Solver;CodeChef+3-Star+%7C+Codeforces+Specialist;Always+Learning+%26+Growing!" />
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -145,8 +181,6 @@
 - **🌟 More Projects**: Explore my complete portfolio of 30+ repositories showcasing innovative solutions and open source contributions.
 
 ---
-
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -166,7 +200,6 @@
 ## 🎯 Current Focus
 
 <div align="center">
-
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding"/>
 </div>
 
@@ -175,6 +208,7 @@
 - 💡 **Exploring:** AI/ML integration in web applications
 - 🚀 **Building:** Next-gen educational platforms
 - 📊 **Target:** 1000+ LeetCode problems solved
+- 🏆 **Competitive Programming:** Aiming for Expert level across platforms
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=4000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Currently+mastering+System+Design;Building+scalable+applications;Solving+complex+algorithms;Always+ready+for+new+challenges!" />
