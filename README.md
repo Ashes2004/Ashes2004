@@ -121,10 +121,7 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mr_ashes_2004&theme=dark&force_username=true&border=true" alt="Codeforces Stats"/>
 </div>
 
-### 🍳 CodeChef Progress
-<div align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api/heatmap?username=dasashes04&theme=dark" alt="CodeChef Stats"/>
-</div>
+
 
 ### 📊 Comprehensive Coding Statistics
 <div align="center">
@@ -161,10 +158,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ashes2004&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
-### 🎯 Competitive Programming Achievements
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=500%2B+Problems+Solved+Across+Platforms;LeetCode+Knight+%7C+GFG+Problem+Solver;CodeChef+3-Star+%7C+Codeforces+Specialist;Always+Learning+%26+Growing!" />
-</div>
+
 
 ---
 
