@@ -92,7 +92,7 @@
 
 ### 🧩 Problem Solving Platforms
 <p>
-  <a href="https://leetcode.com/Ashes_2004">
+  <a href="https://leetcode.com/Ashes2004">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/ashes2004">
@@ -108,13 +108,13 @@
 
 ### 📈 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashes_2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ashes2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashes_2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes_2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashes2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -136,67 +136,30 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<img align="right" alt="Projects" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<table>
-<tr>
-<td width="50%">
+- **🎓 Mr. Chatur**: A comprehensive study materials platform for MAKAUT engineering students with smart search functionality and mobile-responsive design.
 
-### 🎓 Mr. Chatur
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashes2004&repo=mrchatur&theme=radical" alt="Mr. Chatur"/>
+- **🏫 myClass**: Smart classroom management system featuring interactive dashboards, real-time student-teacher communication, and comprehensive admin tools built with MERN stack.
 
-**Study materials platform for MAKAUT students**
-- 📚 Complete academic resources
-- 🔍 Smart search functionality
-- 📱 Mobile-responsive design
+- **📱 EduGoal**: React Native mobile app designed to enhance focus by blocking YouTube distractions and providing progress tracking for students.
 
-</td>
-<td width="50%">
-
-### 🏫 myClass
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashes2004&repo=myclass&theme=radical" alt="myClass"/>
-
-**Smart classroom management system**
-- 📊 Interactive dashboards
-- 💬 Real-time communication
-- 🛡️ Admin control panel
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 EduGoal
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashes2004&repo=edugoal&theme=radical" alt="EduGoal"/>
-
-**Distraction-free learning app**
-- 🎯 Focus enhancement tools
-- 📺 YouTube distraction blocker
-- 📈 Progress tracking
-
-</td>
-<td width="50%">
-
-### 🌟 More Projects
-<a href="https://github.com/Ashes2004?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
-</a>
-
-**Explore my complete portfolio**
-- 🔗 30+ repositories
-- ⭐ Open source contributions
-- 🚀 Innovative solutions
-
-</td>
-</tr>
-</table>
-
-</div>
+- **🌟 More Projects**: Explore my complete portfolio of 30+ repositories showcasing innovative solutions and open source contributions.
 
 ---
 
-## 📈 Contribution Activity
+## 💫 Fun Animations & Extras
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### 🎨 Dynamic Elements
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Always+learning+new+things;Problem+solving+is+my+passion;Open+to+exciting+opportunities!" />
+</div>
+
+### 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashes2004&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
@@ -205,7 +168,10 @@
 
 ## 🎯 Current Focus
 
-<img align="right" alt="Focus" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb6Mt/giphy.gif" width="300" alt="Learning"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding"/>
+</div>
 
 - 🔍 **Learning:** Advanced System Design & Microservices
 - 🎯 **Goal:** Contributing to major open-source projects
@@ -213,13 +179,24 @@
 - 🚀 **Building:** Next-gen educational platforms
 - 📊 **Target:** 1000+ LeetCode problems solved
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=4000&pause=500&color=61DAFB&center=true&vCenter=true&width=600&lines=Currently+mastering+System+Design;Building+scalable+applications;Solving+complex+algorithms;Always+ready+for+new+challenges!" />
+</div>
+
 ---
 
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
-<p>
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</div>
+
+<p align="center">
   <a href="https://github.com/Ashes2004">
     <img src="https://img.shields.io/badge/GitHub-Ashes2004-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
@@ -234,10 +211,12 @@
   </a>
 </p>
 
-### 💬 Always open to interesting conversations and collaboration opportunities!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;Let's+build+something+amazing!+🚀;Happy+Coding!+💻;Connect+with+me!+🌟" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;Let's+build+something+amazing!+🚀;Happy+Coding!+💻" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
 ---
