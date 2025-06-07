@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💻 **Full Stack Developer** specializing in **MERN Stack**
 - 🔧 Strong expertise in **DSA** and **C++** programming
