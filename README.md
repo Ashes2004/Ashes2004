@@ -234,10 +234,10 @@
   <a href="https://ashesdas.me">
     <img src="https://img.shields.io/badge/Portfolio-ashesdas.me-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/ashes-das">
+  <a href="https://www.linkedin.com/in/ashes-das-428377245">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:dasashes04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
