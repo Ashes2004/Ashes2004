@@ -95,7 +95,7 @@
   <a href="https://leetcode.com/Ashes_2004">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/ashes2004">
+  <a href="https://www.codechef.com/users/dasashes04">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://codeforces.com/profile/mr_ashes_2004">
