@@ -92,7 +92,7 @@
 
 ### 🧩 Problem Solving Platforms
 <p>
-  <a href="https://leetcode.com/Ashes2004">
+  <a href="https://leetcode.com/Ashes_2004">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/ashes2004">
@@ -108,13 +108,13 @@
 
 ### 📈 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashes2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ashes_2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashes2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashes_2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes_2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
