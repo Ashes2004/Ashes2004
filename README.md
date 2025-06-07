@@ -102,6 +102,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes2004&layout=compact&theme=radical&hide=html" alt="Top Languages"/>
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashes2004&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
+
 ### 🧩 Problem Solving Platforms
 <p>
   <a href="https://leetcode.com/Ashes_2004">
