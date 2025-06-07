@@ -92,23 +92,21 @@
 
 ### 🧩 Problem Solving Platforms
 <p>
-  <a href="https://leetcode.com/Ashes2004">
+  <a href="https://leetcode.com/Ashes_2004">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/ashes2004">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
   </a>
-  <a href="https://codeforces.com/profile/Ashes2004">
+  <a href="https://codeforces.com/profile/mr_ashes_2004">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://www.hackerrank.com/ashes2004">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
+ 
 </p>
 
 ### 📈 LeetCode Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashes2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Ashes_2004?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ### 📊 GitHub Analytics
@@ -169,7 +167,7 @@
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb6Mt/giphy.gif" width="300" alt="Learning"/>
+
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Coding"/>
 </div>
 
