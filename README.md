@@ -170,7 +170,7 @@
 
 ## 🚀 Featured Projects
 
-<img align="right" alt="Projects" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Projects" width="270" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - **🎓 Mr. Chatur**: A comprehensive study materials platform for MAKAUT engineering students with smart search functionality and mobile-responsive design.
 
