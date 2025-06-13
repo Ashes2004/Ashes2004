@@ -23,7 +23,7 @@
 - 🌱 Always learning cutting-edge technologies
 - 🎯 **Problem Solver** with **500+** coding challenges solved
 - 📫 Portfolio: **[ashesdas.me](https://ashesdas.me/)**
-- ⚡ Fun fact: I debug with `console.log` and I'm proud of it!
+
 
 ---
 
