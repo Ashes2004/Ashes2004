@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/Ashes2004/Ashes2004/blob/main/assets/coding.gif" width="400" alt="Coding GIF"/>
+  <img src="https://github.com/Ashes2004/Ashes2004/blob/main/assets/coding.gif" width="300" alt="Coding GIF"/>
 </div>
 
 ---
