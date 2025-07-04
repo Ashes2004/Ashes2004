@@ -7,15 +7,13 @@
   <img src="https://img.shields.io/github/followers/Ashes2004?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/Ashes2004/Ashes2004/blob/main/assets/coding.gif" width="300" height = "250" alt="Coding GIF"/>
-</div>
+
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="220" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💻 **Full Stack Developer** specializing in **MERN Stack** & **PHP**
 - 🔧 Strong expertise in **DSA** and **C++** programming
